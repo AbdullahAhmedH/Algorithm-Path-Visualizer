@@ -11,15 +11,19 @@ This project is a 2D pathfinding algorithm visualizer using Python, Pygame, and 
 ## Algorithms Included
 
 1. **A* Search Algorithm**
+
 ![A* Search](https://github.com/AbdullahAhmedH/Algorithm-Path-Visualizer/blob/main/images/openglvn/gifastar.gif)
 
 2. **Dijkstra's Algorithm**
+
 ![Djikstra's](https://github.com/AbdullahAhmedH/Algorithm-Path-Visualizer/blob/main/images/openglvn/gifdjikstra.gif)
 
 3. **Breadth-First Search (BFS)**
+
 ![BFS](https://github.com/AbdullahAhmedH/Algorithm-Path-Visualizer/blob/main/images/openglvn/gifbfs.gif)
 
 4. **Depth-First Search (DFS)**
+
 ![DFS](https://github.com/AbdullahAhmedH/Algorithm-Path-Visualizer/blob/main/images/openglvn/gifdfs.gif)
 
 
@@ -40,7 +44,11 @@ python main.py
 ```
 
 Press the spacebar to start the selected algorithm. (A* selected initially by default)
+
 Press '1' to select the A* algorithm.
+
 Press '2' to select Dijkstra's algorithm.
+
 Press '3' to select the BFS algorithm.
+
 Press '4' to select the DFS algorithm.
