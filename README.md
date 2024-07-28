@@ -37,6 +37,13 @@ pip install -r requirements.txt
 
 ## Usage
 
+To activate the virtual environment, use the following command:
+
+```bash
+.\aenv.ps1
+```
+
+
 To run the visualizer, change directory to the version you'd like to use the following command:
 
 ```bash
